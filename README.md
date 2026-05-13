@@ -271,6 +271,8 @@ interface FullAnalysisResponse {
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+🔗 **Live URL:** [https://skill-autofill.vercel.app/](https://skill-autofill.vercel.app/)
+
 ## 📝 License
 
 MIT License - see [LICENSE](LICENSE) for details.
